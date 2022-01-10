@@ -2,4 +2,5 @@ env.py
 env.py
 .DS_Store
 .ipynb_checkpoints/
-__pycache__/
+__pycache__/env.py
+env.py
